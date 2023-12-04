@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 * `FlowbiteIcon` widget class.
 * `FlowbiteSolidIcons` IconData class.
+* `FlowbiteOutlineIcons` IconData class.
 
 [Unreleased]: https://github.com/hanmajid/flowbite_icons/compare/v0.0.1...dev
 [0.0.1]: https://github.com/hanmajid/flowbite_icons/releases/tag/v0.0.1

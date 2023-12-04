@@ -15,4 +15,5 @@
 library flowbite_icons;
 
 export 'flowbite_icon.dart';
+export 'flowbite_outline_icons.dart';
 export 'flowbite_solid_icons.dart';

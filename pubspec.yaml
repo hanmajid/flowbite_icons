@@ -16,6 +16,9 @@ dependencies:
 
 flutter:
   fonts:
+    - family: FlowbiteOutlineIcons
+      fonts:
+        - asset: assets/FlowbiteOutlineIcons.ttf
     - family: FlowbiteSolidIcons
       fonts:
         - asset: assets/FlowbiteSolidIcons.ttf
