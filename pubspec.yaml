@@ -19,6 +19,9 @@ flutter:
     - family: FlowbiteOutlineIcons
       fonts:
         - asset: assets/FlowbiteOutlineIcons.ttf
+    - family: FlowbiteSocialIcons
+      fonts:
+        - asset: assets/FlowbiteSocialIcons.ttf
     - family: FlowbiteSolidIcons
       fonts:
         - asset: assets/FlowbiteSolidIcons.ttf
