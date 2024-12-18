@@ -1,5 +1,7 @@
 # Flowbite Icons
 
+[![pub package](https://img.shields.io/pub/v/flowbite_icons.svg)](https://pub.dev/packages/flowbite_icons)
+
 Unofficial Flutter package for **Flowbite UI Kit icons**. Flowbite UI Kit is made by [Themesberg](https://www.figma.com/@themesberg) and licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Installation
@@ -10,27 +12,6 @@ Add `flowbite_icons` dependency to your Flutter project:
 dependencies:
   flowbite_icons: ^<latest-version>
 ```
-
-### Installation (Local)
-
-If you purchased this package from marketplace, follow instructions below to use this package:
-
-1. Put `flowbite_icons` package folder in the same folder as your Flutter project like shown below:
-   ```
-   └── my_working_directory/
-       ├── flowbite_icons/                  # Place package folder here
-       └── my_awesome_flutter_project/      # Place your Flutter project folder here
-   ```
-2. In your `pubspec.yaml` file, add `flowbite_icons` as local dependency in your Flutter project:
-   ```yaml
-   dependencies:
-     flowbite_icons:
-       path: ../flowbite_icons
-   ```
-3. Update your Flutter project dependencies by running:
-   ```
-   flutter pub get
-   ```
 
 ## Usage
 
@@ -56,7 +37,7 @@ For issues, file directly in the [repository](https://github.com/hanmajid/flowbi
 
 ## Icons
 
-<img src="flowbite-icons.png">
+<img src="https://raw.githubusercontent.com/hanmajid/flowbite_icons/refs/heads/master/flowbite-icons.png">
 
 All Flowbite icons can be viewed on its Figma file [here](https://www.figma.com/community/file/1179442320711977498).
 
